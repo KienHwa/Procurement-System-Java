@@ -1,0 +1,48 @@
+I001,Senheng Electric KL,1500.0
+I002,Senheng Electric KL,1800.0
+I003,Senheng Electric KL,500.0
+I005,Senheng Electric KL,750.0
+I006,Senheng Electric KL,150.0
+I002,Harvey Norman,2200.0
+I003,Harvey Norman,500.0
+I004,Harvey Norman,17.0
+I006,Harvey Norman,180.0
+I007,Harvey Norman,200.0
+I009,Harvey Norman,210.0
+I001,Midea Malaysia,1880.0
+I002,Midea Malaysia,2100.0
+I005,Midea Malaysia,900.0
+I010,Midea Malaysia,550.0
+I004,Berjaya Appliances,30.0
+I007,Berjaya Appliances,300.0
+I003,ELBA Malaysia,250.0
+I006,ELBA Malaysia,120.0
+I007,ELBA Malaysia,200.0
+I009,ELBA Malaysia,125.0
+I002,Panasonic Malaysia,1550.0
+I005,Panasonic Malaysia,800.0
+I006,Panasonic Malaysia,125.0
+I010,Panasonic Malaysia,550.0
+I001,LG Electronics,1750.0
+I006,LG Electronics,120.0
+I007,LG Electronics,100.0
+I008,LG Electronics,80.0
+I002,Daikin Malaysia,2000.0
+I006,Daikin Malaysia,120.0
+I009,Daikin Malaysia,200.0
+I010,Daikin Malaysia,500.0
+I002,Hitachi Home,1800.0
+I004,Hitachi Home,20.0
+I001,Samsung Malaysia,1800.0
+I003,Samsung Malaysia,350.0
+I005,Samsung Malaysia,1000.0
+I008,Samsung Malaysia,80.0
+I009,Samsung Malaysia,180.0
+I010,Samsung Malaysia,500.0
+I003,Electrolux Malaysia,300.0
+I004,Electrolux Malaysia,15.0
+I007,Electrolux Malaysia,150.0
+I010,Electrolux Malaysia,500.0
+I005,Whirlpool Malaysia,800.0
+I007,Whirlpool Malaysia,250.0
+I008,Whirlpool Malaysia,80.0

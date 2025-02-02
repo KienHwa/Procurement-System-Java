@@ -1,0 +1,12 @@
+S001,Senheng Electric KL,1300-88-1122,Lot 1; Jalan 219; 46100 Petaling Jaya; Selangor; Malaysia
+S002,Harvey Norman,1300-88-8182,Lot 1-29; 1st Floor; Berjaya Times Square; Jalan Imbi; 5100 Kuala Lumpur; Malaysia
+S003,Midea Malaysia,03-5880 8788,B-2-01; Level 21; The Ascent; Paradigm; Jalan SS 7/26A; 47301 Petaling Jaya; Selangor; Malaysia
+S004,Berjaya Appliances,03-7495 3888,Lot 1; Jalan 219; 46100 Petaling Jaya; Selangor; Malaysia
+S005,ELBA Malaysia,03-5882 8682,Lot 2A; Jalan TPP 1/3; Taman Industri Puchong; 47100 Puchong; Selangor; Malaysia
+S006,Panasonic Malaysia,1-800-88-1102,Jalan U1/23; Seksyen 11; 40000 Shah Alam; Selangor; Malaysia
+S007,LG Electronics,1-800-822-822,Lot 2; Jalan 19/1; 46300 Petaling Jaya; Selangor; Malaysia
+S008,Daikin Malaysia,1800-88-3233,Lot 60334; Persiaran Subang Permai; USJ 1; 47600 Subang Jaya; Selangor; Malaysia
+S009,Hitachi Home,1800-88-1559,No. 1; Jalan Tandang; 46050 Petaling Jaya; Selangor; Malaysia
+S010,Samsung Malaysia,1300-88-9999,Lot 6.05; Level 6; KPMG Tower; 8 First Avenue; Bandar Utama; 47800 Petaling Jaya; Selangor; Malaysia
+S011,Electrolux Malaysia,603-5867 4800,Lot 11; Jalan Kemajuan; Seksyen 13; 46200 Petaling Jaya; Selangor; Malaysia
+S012,Whirlpool Malaysia,1300-88-8889,Lot 6.05; Level 6; KPMG Tower; 8 First Avenue; Bandar Utama; 47800 Petaling Jaya; Selangor; Malaysia
